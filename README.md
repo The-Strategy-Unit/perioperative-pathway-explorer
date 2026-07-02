@@ -6,6 +6,6 @@ The Explorer focuses on elective hip and knee pathways and enables users to expl
 
 Developed collaboratively with NHS clinicians, public health specialists, commissioners and national organisations, the Explorer combines published evidence, clinical expertise and practice-informed assumptions within a system dynamics model. It is intended to support discussion, service planning and strategic decision-making rather than predict outcomes for individual patients.
 
-The Explorer can be viewed on the [isee exchange](https://exchange.iseesystems.com/public/strategy-unit/perioperative-care-pathways/index.html).
+The Explorer can be viewed on the [isee exchange](https://exchange.iseesystems.com/public/strategy-unit/perioperative-care-pathways/index.html). The User Guide explains how to navigate and use the Explorer, while the STRESS checklist is technical documentation. 
 
 This repo contains the supporting documentation and the model file in smtx format - this is an open XML protocol and can be shared and used, within the terms of the licence.
